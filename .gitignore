@@ -1,0 +1,7 @@
+*.hi
+*.o
+*~
+*main/
+dist/
+example/main/
+Haste/main/
